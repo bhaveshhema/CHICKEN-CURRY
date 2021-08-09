@@ -1,1 +1,1 @@
-# CHICKEN-CURRY
+The recipe given is for creating chicken curry.
